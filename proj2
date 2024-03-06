@@ -1,4 +1,9 @@
-public String proj2() {
+public String proj2_A() {
 // retour valeur
-return "prog2";
+return "proj2_A";
+}
+
+public String proj2_B() {
+// retour valeur
+return "proj2_B";
 }
