@@ -7,3 +7,8 @@ public String proj2_B() {
 // retour valeur
 return "proj2_B";
 }
+
+public String proj2_C() {
+// retour valeur
+return "proj2_C";
+}
